@@ -6,3 +6,9 @@ header {
 main {
     background-color: rgb(197, 188, 188);
 }
+body {
+    margin: 0;
+    background-image: url("images/record.png"); 
+    /*background-size: cover;*/
+    padding: 1em;
+}
